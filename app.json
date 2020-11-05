@@ -1,0 +1,12 @@
+{
+  "name": "book-phone-appman",
+  "displayName": "book-phone-appman",
+  "expo": {
+    "name": "book-phone-appman",
+    "slug": "book-phone-appman",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
